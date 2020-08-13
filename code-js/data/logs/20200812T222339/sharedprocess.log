@@ -1,0 +1,33 @@
+[2020-08-12 22:23:43.018] [sharedprocess] [info] main {"machineId":"4d9f8c2b4e76bbbda55955498ab97ae49a514758f3e117cb5c647bdfdd343aee","windowId":2}
+[2020-08-12 22:23:43.051] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sandino/code_profiles/code-js/data/User/snippets'
+[2020-08-12 22:24:13.744] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-08-12 22:24:14.802] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/sandino/code_profiles/code-js/data/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.22.1
+[2020-08-12 22:24:14.824] [sharedprocess] [info] Extracted extension to /home/sandino/code_profiles/code-js/exts/.dracula-theme.theme-dracula-2.22.1: dracula-theme.theme-dracula
+[2020-08-12 22:24:14.825] [sharedprocess] [info] Renamed to /home/sandino/code_profiles/code-js/exts/dracula-theme.theme-dracula-2.22.1
+[2020-08-12 22:24:14.825] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-08-12 22:24:14.828] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-08-12 22:24:23.035] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-12 22:24:23.565] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2020-08-12 22:24:23.991] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /home/sandino/code_profiles/code-js/data/CachedExtensionVSIXs/editorconfig.editorconfig-0.15.1
+[2020-08-12 22:24:24.063] [sharedprocess] [info] Extracted extension to /home/sandino/code_profiles/code-js/exts/.editorconfig.editorconfig-0.15.1: editorconfig.editorconfig
+[2020-08-12 22:24:24.063] [sharedprocess] [info] Renamed to /home/sandino/code_profiles/code-js/exts/editorconfig.editorconfig-0.15.1
+[2020-08-12 22:24:24.064] [sharedprocess] [info] Installation completed. editorconfig.editorconfig
+[2020-08-12 22:24:24.069] [sharedprocess] [info] Extensions installed successfully: editorconfig.editorconfig
+[2020-08-12 22:24:28.305] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-08-12 22:24:28.945] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/sandino/code_profiles/code-js/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.8
+[2020-08-12 22:24:28.962] [sharedprocess] [info] Extracted extension to /home/sandino/code_profiles/code-js/exts/.dbaeumer.vscode-eslint-2.1.8: dbaeumer.vscode-eslint
+[2020-08-12 22:24:28.962] [sharedprocess] [info] Renamed to /home/sandino/code_profiles/code-js/exts/dbaeumer.vscode-eslint-2.1.8
+[2020-08-12 22:24:28.963] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-08-12 22:24:28.965] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-08-12 22:24:34.086] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-08-12 22:24:35.788] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/sandino/code_profiles/code-js/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.2.0
+[2020-08-12 22:24:36.249] [sharedprocess] [info] Extracted extension to /home/sandino/code_profiles/code-js/exts/.pkief.material-icon-theme-4.2.0: pkief.material-icon-theme
+[2020-08-12 22:24:36.249] [sharedprocess] [info] Renamed to /home/sandino/code_profiles/code-js/exts/pkief.material-icon-theme-4.2.0
+[2020-08-12 22:24:36.251] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-08-12 22:24:36.254] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-08-12 22:24:46.483] [sharedprocess] [info] Installing extension: jpoissonnier.vscode-styled-components
+[2020-08-12 22:24:47.382] [sharedprocess] [info] Downloaded extension: jpoissonnier.vscode-styled-components /home/sandino/code_profiles/code-js/data/CachedExtensionVSIXs/jpoissonnier.vscode-styled-components-0.0.29
+[2020-08-12 22:24:47.545] [sharedprocess] [info] Extracted extension to /home/sandino/code_profiles/code-js/exts/.jpoissonnier.vscode-styled-components-0.0.29: jpoissonnier.vscode-styled-components
+[2020-08-12 22:24:47.545] [sharedprocess] [info] Renamed to /home/sandino/code_profiles/code-js/exts/jpoissonnier.vscode-styled-components-0.0.29
+[2020-08-12 22:24:47.545] [sharedprocess] [info] Installation completed. jpoissonnier.vscode-styled-components
+[2020-08-12 22:24:47.551] [sharedprocess] [info] Extensions installed successfully: jpoissonnier.vscode-styled-components
