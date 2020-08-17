@@ -1,0 +1,27 @@
+[2020-08-14 21:49:52.352] [renderer1] [error] Cannot read property 'markers' of undefined: TypeError: Cannot read property 'markers' of undefined
+    at H.setTreeSelection (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7231:970)
+    at H.refreshPanel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7231:811)
+    at H.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7237:411)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7236:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3243:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3547:112)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3547:40
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915
+[2020-08-14 22:20:05.269] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:613)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:855)
+    at G.expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1115:277)
+    at H.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7240:818)
+    at H.onActiveEditorChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7237:842)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7236:715
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at F.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6212:898)
+    at F.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6212:696)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6213:19
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6449:665
+    at async e.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6448:121)

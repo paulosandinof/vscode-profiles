@@ -1,0 +1,1 @@
+[2020-08-14 20:39:53.724] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sandino/.code-profiles/code-php/exts/pkief.material-icon-theme-4.2.0/dist/material-icons.json'

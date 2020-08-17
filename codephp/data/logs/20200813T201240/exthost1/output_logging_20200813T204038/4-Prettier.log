@@ -1,0 +1,542 @@
+["INFO" - 8:40:38 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:40:38 PM] Extension Version: 5.1.3.
+["INFO" - 8:40:39 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 8:40:39 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 8:41:23 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:23 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:23 PM] Using bundled version of prettier.
+["INFO" - 8:41:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:23 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:23 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:23 PM] Formatting completed in 34.101366ms.
+["INFO" - 8:41:23 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 8:41:23 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 8:41:25 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:25 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:25 PM] Using bundled version of prettier.
+["INFO" - 8:41:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:25 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:25 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:25 PM] Formatting completed in 21.308502ms.
+["INFO" - 8:41:26 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:26 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:26 PM] Using bundled version of prettier.
+["INFO" - 8:41:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:26 PM] Formatting completed in 18.351659ms.
+["INFO" - 8:41:28 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:28 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:28 PM] Using bundled version of prettier.
+["INFO" - 8:41:28 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:28 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:28 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:28 PM] Formatting completed in 20.434961ms.
+["INFO" - 8:41:31 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:31 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:31 PM] Using bundled version of prettier.
+["INFO" - 8:41:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:31 PM] Formatting completed in 18.292723ms.
+["INFO" - 8:41:32 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:32 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:32 PM] Using bundled version of prettier.
+["INFO" - 8:41:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:32 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:32 PM] Formatting completed in 12.183697ms.
+["INFO" - 8:41:37 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:37 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:37 PM] Using bundled version of prettier.
+["INFO" - 8:41:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:37 PM] Formatting completed in 12.605421ms.
+["INFO" - 8:41:37 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:37 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:37 PM] Using bundled version of prettier.
+["INFO" - 8:41:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:37 PM] Formatting completed in 15.182187ms.
+["INFO" - 8:41:40 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:40 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:40 PM] Using bundled version of prettier.
+["INFO" - 8:41:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:40 PM] Formatting completed in 13.293248ms.
+["INFO" - 8:41:44 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:44 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:44 PM] Using bundled version of prettier.
+["INFO" - 8:41:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:44 PM] Formatting completed in 12.838989ms.
+["INFO" - 8:41:44 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:44 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:44 PM] Using bundled version of prettier.
+["INFO" - 8:41:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:44 PM] Formatting completed in 11.846976ms.
+["INFO" - 8:41:45 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:45 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:45 PM] Using bundled version of prettier.
+["INFO" - 8:41:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:45 PM] Formatting completed in 14.782487ms.
+["INFO" - 8:41:45 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:45 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:45 PM] Using bundled version of prettier.
+["INFO" - 8:41:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:45 PM] Formatting completed in 16.895928ms.
+["INFO" - 8:41:45 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:45 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:45 PM] Using bundled version of prettier.
+["INFO" - 8:41:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:45 PM] Formatting completed in 13.076407ms.
+["INFO" - 8:41:51 PM] Formatting /home/sandino/.code-profiles/code-php/data/User/settings.json
+["INFO" - 8:41:51 PM] Using ignore file (if present) at undefined
+["INFO" - 8:41:51 PM] Using bundled version of prettier.
+["INFO" - 8:41:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:41:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:41:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sandino/.code-profiles/code-php/data/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:41:51 PM] Formatting completed in 13.189648ms.

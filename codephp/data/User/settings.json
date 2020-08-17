@@ -1,0 +1,24 @@
+{
+    // Configuração de temas
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.labelFormat": "short",
+    // Fonte do terminal
+    "terminal.integrated.fontSize": 14,
+    // Configuração do editor
+    "editor.tabSize": 4,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    // Impedir de juntar pastas
+    "explorer.compactFolders": false,
+    // Ignorar recomendação de extensões
+    "extensions.ignoreRecommendations": true,
+    "editor.formatOnSave": true,
+}

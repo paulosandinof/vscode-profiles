@@ -1,0 +1,4 @@
+[2020-08-14 20:40:08.542] [sharedprocess] [info] main {"machineId":"70f0205e182327e04318852c5a0dc0c18743a425f938f12af94b0cb713044ec9","windowId":2}
+[2020-08-14 20:40:08.623] [sharedprocess] [info] Deleted from disk higoka.php-cs-fixer /home/sandino/.code-profiles/codephp/exts/higoka.php-cs-fixer-1.1.3
+[2020-08-14 20:40:08.634] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/sandino/.code-profiles/codephp/exts/esbenp.prettier-vscode-5.1.3
+[2020-08-14 20:40:48.564] [sharedprocess] [info] Starting to clean up unused language packs.

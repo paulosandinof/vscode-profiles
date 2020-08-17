@@ -1,0 +1,10 @@
+[2020-08-16 22:16:53.310] [sharedprocess] [info] main {"machineId":"70f0205e182327e04318852c5a0dc0c18743a425f938f12af94b0cb713044ec9","windowId":2}
+[2020-08-16 22:16:55.917] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2020-08-16 22:16:58.630] [sharedprocess] [error] Failed to install extension: bmewburn.vscode-intelephense-client XHR failed
+[2020-08-16 22:17:33.320] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-16 22:49:06.242] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2020-08-16 22:49:07.467] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /home/sandino/.code-profiles/codephp/data/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.5.4
+[2020-08-16 22:49:07.854] [sharedprocess] [info] Extracted extension to /home/sandino/.code-profiles/codephp/exts/.bmewburn.vscode-intelephense-client-1.5.4: bmewburn.vscode-intelephense-client
+[2020-08-16 22:49:07.854] [sharedprocess] [info] Renamed to /home/sandino/.code-profiles/codephp/exts/bmewburn.vscode-intelephense-client-1.5.4
+[2020-08-16 22:49:07.855] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2020-08-16 22:49:07.873] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client

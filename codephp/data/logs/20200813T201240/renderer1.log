@@ -1,0 +1,66 @@
+[2020-08-13 20:44:04.545] [renderer1] [error] Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+: Error: Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:203:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-13 20:44:06.233] [renderer1] [error] Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+: Error: Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:203:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-13 20:44:07.327] [renderer1] [error] Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+: Error: Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:203:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-13 20:44:15.196] [renderer1] [error] Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+: Error: Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:203:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-13 20:44:46.351] [renderer1] [error] Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+: Error: Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:203:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-13 20:44:47.703] [renderer1] [error] Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+: Error: Command failed: /usr/local/bin/php-cs-fixer fix /home/sandino/Documents/php-for-beginners/index.php --using-cache=no --path-mode=override
+/bin/sh: 1: /usr/local/bin/php-cs-fixer: not found
+
+	at ChildProcess.exithandler (child_process.js:308:12)
+	at ChildProcess.emit (events.js:203:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)

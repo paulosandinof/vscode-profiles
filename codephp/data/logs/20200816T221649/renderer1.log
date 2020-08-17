@@ -1,0 +1,2 @@
+[2020-08-16 22:16:58.639] [renderer1] [error] XHR failed: downloading: XHR failed
+    at file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:584:700
